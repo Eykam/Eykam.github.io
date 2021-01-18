@@ -1,2 +1,2 @@
 ## Link to Notebook
-[Project](https://Eykam.github.io/Scraper.ipynb)
+[Project](https://github.com/Eykam/Eykam.github.io/blob/main/Scraper.ipynb)
